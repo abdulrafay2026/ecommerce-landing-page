@@ -1,0 +1,34 @@
+.container {
+    width: 1300px;
+    margin: auto;
+
+}
+
+.row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.box {
+    color: black;
+    text-align: center;
+    padding: 25px 0;
+
+    font-weight: bold;
+    background-color: yellow;
+}
+
+/* Widths */
+
+.full { width: 100%; }
+
+.half { width: 50%; }
+
+.third { width: 33%; }
+
+.four { width: 25%; }
+
+.six { width: 16%; }
+
+.small { width: 8%; }
